@@ -1,6 +1,6 @@
 # Intro to R for Biologists (2 day course)
 
-## By [Beatriz Gamez Molina](https://github.com/BeaGM84)([Oxford profile](https://www.nds.ox.ac.uk/team/beatriz-gamezmolina)) and [Wojciech Lason]([https://github.com/CristiSoitu](https://github.com/wlason)](https://www.kennedy.ox.ac.uk/team/wojciech-lason)
+## By [Beatriz Gamez Molina](https://github.com/BeaGM84)([Oxford profile](https://www.nds.ox.ac.uk/team/beatriz-gamezmolina)) and [Wojciech Lason](https://github.com/wlason)]([Oxford profile] (https://www.kennedy.ox.ac.uk/team/wojciech-lason))
 
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with minimal or no programming experience who want to perform basic data analysis in R and get familiar with programming environment.
 
